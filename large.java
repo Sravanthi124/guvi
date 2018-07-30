@@ -17,15 +17,15 @@ class large
 		c=in.nextInt();
 		if(a>b&&a>c)
 		{
-		System.out.println("a is larger");	
+		System.out.println(a);	
 		}
 		else if(b>a&&b>c)
 		{
-			System.out.println("b is larger");
+			System.out.println(b);
 		}
 		else
 		{
-		System.out.println("c is larger");	
+		System.out.println(c);	
 		}
 		
 		
