@@ -9,11 +9,8 @@ class large
 	{
 		int a,b,c;
 		Scanner  in=new Scanner(System.in);
-		System.out.println("enter a value");
 		a=in.nextInt();
-		System.out.println("enter b value");
 		b=in.nextInt();
-		System.out.println("enter c value");
 		c=in.nextInt();
 		if(a>b&&a>c)
 		{
